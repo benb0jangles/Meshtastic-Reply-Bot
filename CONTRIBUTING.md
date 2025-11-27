@@ -68,8 +68,8 @@ Have an idea for a new feature? Open an issue with:
 
 1. Clone your fork:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/meshtastic-basic-bot.git
-   cd meshtastic-basic-bot
+   git clone https://github.com/github.com/benb0jangles/Meshtastic-Reply-Bot.git
+   cd Meshtastic-Reply-Bot
    ```
 
 2. Install dependencies:
