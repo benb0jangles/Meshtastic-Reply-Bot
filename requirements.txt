@@ -1,0 +1,9 @@
+# Meshtastic Basic Bot Requirements
+# Python 3.8 or higher required
+
+# Core dependency - Meshtastic Python API
+meshtastic>=2.2.0
+
+# Required by meshtastic package
+pypubsub>=4.0.3
+protobuf>=3.13.0
