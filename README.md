@@ -4,6 +4,8 @@ I made it to help me range test my nodes.
 
 A simple Python bot for Meshtastic mesh networks that automatically responds with "ok" to any direct message.
 
+*NEW!* Would you like to measure dm message latency between your nodes? RSSI? SNR? Then try this bot>>>>> https://github.com/benb0jangles/meshtastic-signal-test-bot
+
 This is a minimal starting point for building custom Meshtastic bot functionality. Future versions will include additional features based on community feedback.
 
 ## Features
